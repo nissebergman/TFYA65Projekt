@@ -1,5 +1,5 @@
 deviceReader = audioDeviceReader;
-deviceWriter = audioDeviceWriter('Sample;
+deviceWriter = audioDeviceWriter;
 
 tic
 
